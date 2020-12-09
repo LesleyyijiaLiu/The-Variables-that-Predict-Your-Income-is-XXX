@@ -19,7 +19,7 @@ The main goal of this report is to to find a more complex linear model which peo
 The data we used is from the American Community Surveys (ACS),
 which is the premier source for detailed population and housing information about the United States. We will extend the data description in the Data section. After cleaning the data based on variables we selected, we built a multiple linear regression model to find out useful predictor variables for the income.
 
-We found that XXX. It is useful that people can understand what are some advantages during the interview and also what can they improve to make them more competitive in the labour market.
+We found that XXX. It is useful that people can understand what are some advantages during the interview and also what can they improve to make them more competitive in the labour market. However, some limitations are XXX
 
 # Data
 
