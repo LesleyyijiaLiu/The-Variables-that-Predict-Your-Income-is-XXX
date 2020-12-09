@@ -1,0 +1,30 @@
+---
+title: "Variables that Predicts Your Income"
+author: "Yijia Liu"
+date: "2020/12/9"
+thanks: "Code and data are available at: https://github.com/LesleyyijiaLiu/The-Variables-that-Predict-Your-Income-is-XXX.git"
+abstract: |
+  | Income is determined by many differnet factors.  In this report, we used multiple linear regression model to find out some useful factors that can predict your income. We found that XXX. The finding are essential not only becasue people can know what they can arguing for during the interview but also what can they improve to make them more competitive in the labour market. 
+  
+  | **Keywords**: Income, Prediction, Multiple linear regression, Workplace.
+output: pdf_document
+---
+
+# Introduction
+
+Employers sometimes pay for the right education and experience. In fact, these may be the most important negotiation points in people's next performance review, job interview or promotion request. Employers usually adjust their market data when determining how much to pay a particular employee. After they determine the value of the position by studying the salary practice data of comparable positions in comparable companies, they adjust the data to reflect the background and experience of the employees.
+
+The main goal of this report is to to find a more complex linear model which people can use to predict their income. Multiple linear regression (MLR) is a statistical technique that uses several explanatory variables to predict the outcome of the response variable. The goal of MLR is to model the linear relationship between the explanatory variable and the response variable. In essence, multiple regression is an extension of ordinary least squares (OLS) regression, involving multiple explanatory variables.
+
+The data we used is from the American Community Surveys (ACS),
+which is the premier source for detailed population and housing information about the United States. We will extend the data description in the Data section. After cleaning the data based on variables we selected, we built a multiple linear regression model to find out useful predictor variables for the income.
+
+We found that XXX. It is useful that people can understand what are some advantages during the interview and also what can they improve to make them more competitive in the labour market.
+
+# Data
+
+# Model
+
+# Results
+
+# Discussion
